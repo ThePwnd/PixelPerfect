@@ -1,0 +1,6 @@
+wood
+vine
+leaves
+plants
+ice
+packedIce

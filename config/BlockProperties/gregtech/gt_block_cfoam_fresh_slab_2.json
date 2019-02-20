@@ -1,0 +1,21 @@
+{
+  "_name": "gregtech:gt.block.cfoam.fresh.slab.2",
+  "stats": {
+    "opacity": 3,
+    "brightness": 0,
+    "hardness": 0.0,
+    "resistance": 15.0,
+    "sound": "cloth",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

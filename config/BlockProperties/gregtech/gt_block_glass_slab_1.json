@@ -1,0 +1,21 @@
+{
+  "_name": "gregtech:gt.block.glass.slab.1",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.375,
+    "resistance": 7.5,
+    "sound": "glass",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

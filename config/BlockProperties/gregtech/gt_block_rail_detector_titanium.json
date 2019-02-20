@@ -1,0 +1,21 @@
+{
+  "_name": "gregtech:gt.block.rail.detector.titanium",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.7,
+    "resistance": 80.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "crowbar",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
