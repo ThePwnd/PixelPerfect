@@ -1,0 +1,21 @@
+{
+  "_name": "gregtech:gt.block.bars.tungstensteel",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 5.0,
+    "resistance": 80.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 4
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,20 @@
+{
+  "_name": "gregtech:gt.stone.prismarine.dark.slab.2",
+  "stats": {
+    "opacity": 3,
+    "brightness": 0,
+    "resistance": 11.25,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

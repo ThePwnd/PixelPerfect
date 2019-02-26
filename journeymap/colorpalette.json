@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Mon Feb 18 22:39:18 EST 2019",
+  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Sat Feb 23 14:31:09 EST 2019",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "PresenceFootstepsOfficial.zip:zip:1407887234000, msi_conversion.zip:zip:1528523439072",
-  "modNames": "Ambient Sounds:0.1, AppleCore:3.1.1, Better Foliage:2.0.17, Better Sleeping Core:1.0, Better Sleeping:1.7.10-1.2.27, BiomeTweaker:2.0.182, Biomes O\u0027 Plenty:2.1.0, Block Properties:0.1.5, Build Mod:v1.0, CodeChicken Core:1.0.7.47, CoroAI:v1.0, CoroPets:v1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Surroundings:1.0.6.2, Dynamic Sword Skills:1.7.10-1.7, EnviroMine:1.3.124, Extended Mod Config:v1.0, Extended Renderer:v1.0, ExtrabiomesXL:3.16.4, Fancy Block Particles:2.4.0, FastCraft:1.25, Forge Mod Loader:7.10.99.99, GraveStone:2.16.0, Greg-API-Post:GT6-MC1710, Greg-API:GT6-MC1710, GregTech:GT6-MC1710, Hardcore Darkness:1.7, Hunger Overhaul:1.7.10-1.0.0.jenkins104, JourneyMap:5.1.4p2, Localized Weather \u0026 Storms:v2.3.19, MillÃ©naire:6.0.1, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Comes Alive:1.7.10-5.2.2, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, MusicCraft:2.9.9.3, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, NotEnoughKeys:@MOD_VERSION@, Partial Modification Loader [for Minecraft]:10.3, Player API:1.4, Progression:0.4.1, RadixCore:2.1.3, Realistic Terrain Generation:1.7.10-1.1.1.6, Render Player API:1.4, Smart Core:1.0.3, Smart Moving:15.6, Smart Render:2.1, Sound Filters:0.8_for_1.7.X, Stellar API:0.1.3.8, Stellar Sky:0.1.5.7, Tabula:4.1.1, Terra Firma Craft: Lite:1.7.10-1.0, Underground Biomes Constructs:0.7, Waila Harvestability:1.1.6, Waila:1.5.10, iChunUtil:4.2.2",
+  "modNames": "Ambient Sounds:0.1, AppleCore:3.1.1, Better Foliage:2.0.17, Better Sleeping Core:1.0, Better Sleeping:1.7.10-1.2.27, BiomeTweaker:2.0.182, Biomes O\u0027 Plenty:2.1.0, Block Properties:0.1.5, Build Mod:v1.0, CodeChicken Core:1.0.7.47, CoroAI:v1.0, CoroPets:v1.0, DrZhark\u0027s CustomSpawner:3.3.0, DrZhark\u0027s Mo\u0027Creatures Mod:6.3.1, Dynamic Surroundings:1.0.6.2, Dynamic Sword Skills:1.7.10-1.7, EnviroMine:1.3.124, Extended Mod Config:v1.0, Extended Renderer:v1.0, ExtrabiomesXL:3.16.4, Fancy Block Particles:2.4.0, FastCraft:1.25, Forge Mod Loader:7.10.99.99, GraveStone:2.16.0, Greg-API-Post:GT6-MC1710, Greg-API:GT6-MC1710, GregTech:GT6-MC1710, Hardcore Darkness:1.7, Hunger Overhaul:1.7.10-1.0.0.jenkins104, JourneyMap:5.1.4p2, Localized Weather \u0026 Storms:v2.3.19, MillÃ©naire:6.0.1, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Comes Alive:1.7.10-5.2.2, Minecraft Forge:10.13.4.1614, Mod Tweaker 2:0.9.6, More Crafting Realism:1.0.0.0, MusicCraft:2.9.9.3, NEI Addons: Applied Energistics 2:1.12.14.40, NEI Addons: Botany:1.12.14.40, NEI Addons: Crafting Tables:1.12.14.40, NEI Addons: Developer Tools:1.12.14.40, NEI Addons: Ex Nihilo:1.12.14.40, NEI Addons: Forestry:1.12.14.40, NEI Addons:1.12.14.40, Not Enough Items:1.0.5.120, Not Enough Resources:0.1.0.ManuallyBuilt, NotEnoughKeys:@MOD_VERSION@, Player API:1.4, Progression:0.4.1, RadixCore:2.1.3, Realistic Terrain Generation:1.7.10-1.1.1.6, Render Player API:1.4, Smart Core:1.0.3, Smart Moving:15.6, Smart Render:2.1, Sound Filters:0.8_for_1.7.X, Stellar API:0.1.3.8, Stellar Sky:0.1.5.7, Tabula:4.1.1, Underground Biomes Constructs:0.7, Waila Harvestability:1.1.6, Waila:1.5.10, iChunUtil:4.2.2",
   "basicColors": [
     {
       "name": "Acacia Beam",
@@ -130,6 +130,12 @@ var colorpalette={
       "color": "#685347"
     },
     {
+      "name": "Adamantium Bars",
+      "uid": "gregtech:gt.block.bars.adamantium",
+      "meta": 0,
+      "color": "#6d6c6a"
+    },
+    {
       "name": "Adamantium Block Spike",
       "uid": "gregtech:gt.block.spikes.super",
       "meta": 14,
@@ -142,10 +148,22 @@ var colorpalette={
       "color": "#6d6c6a"
     },
     {
+      "name": "Aether Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 1,
+      "color": "#957c47"
+    },
+    {
       "name": "Alarm Clock",
       "uid": "bettersleeping:bettersleeping_alarm",
       "meta": 0,
       "color": "#bababa"
+    },
+    {
+      "name": "Alfisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 5,
+      "color": "#957c47"
     },
     {
       "name": "Algae",
@@ -399,6 +417,12 @@ var colorpalette={
       "uid": "gregtech:gt.stone.andesite.slab.0",
       "meta": 14,
       "color": "#868787"
+    },
+    {
+      "name": "Andisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 6,
+      "color": "#957c47"
     },
     {
       "name": "Anemometer",
@@ -812,18 +836,6 @@ var colorpalette={
       "meta": 0,
       "color": "#74ddd7",
       "alpha": 0.4
-    },
-    {
-      "name": "Beam",
-      "uid": "gregtech:gt.block.beam.b",
-      "meta": 2,
-      "color": "#e4afaf"
-    },
-    {
-      "name": "Beam (Fireproof)",
-      "uid": "gregtech:gt.block.beam.b.fireproof",
-      "meta": 2,
-      "color": "#e4afaf"
     },
     {
       "name": "Bed",
@@ -1273,6 +1285,12 @@ var colorpalette={
     {
       "name": "Block of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 1520,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
       "meta": 8001,
       "color": "#dbdbdb"
     },
@@ -1304,6 +1322,18 @@ var colorpalette={
       "name": "Block of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.storage.plateGem",
       "meta": 8226,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8292,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8293,
       "color": "#dbdbdb"
     },
     {
@@ -1628,6 +1658,48 @@ var colorpalette={
       "name": "Block of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.storage.plateGem",
       "meta": 8390,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8415,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8416,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8417,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8419,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8420,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8421,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 8423,
       "color": "#dbdbdb"
     },
     {
@@ -1687,6 +1759,24 @@ var colorpalette={
     {
       "name": "Block of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 9215,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 9219,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
+      "meta": 9220,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plateGem",
       "meta": 9802,
       "color": "#dbdbdb"
     },
@@ -1711,12 +1801,6 @@ var colorpalette={
     {
       "name": "Block of Empty",
       "uid": "gregtech:gt.meta.storage.gem",
-      "meta": 110,
-      "color": "#959595"
-    },
-    {
-      "name": "Block of Empty",
-      "uid": "gregtech:gt.meta.storage.gem",
       "meta": 150,
       "color": "#c1c1c1"
     },
@@ -1725,18 +1809,6 @@ var colorpalette={
       "uid": "gregtech:gt.meta.storage.gem",
       "meta": 160,
       "color": "#c1c1c1"
-    },
-    {
-      "name": "Block of Empty",
-      "uid": "gregtech:gt.meta.storage.gem",
-      "meta": 190,
-      "color": "#959595"
-    },
-    {
-      "name": "Block of Empty",
-      "uid": "gregtech:gt.meta.storage.gem",
-      "meta": 200,
-      "color": "#c6c6c6"
     },
     {
       "name": "Block of Empty",
@@ -1754,6 +1826,12 @@ var colorpalette={
       "name": "Block of Empty",
       "uid": "gregtech:gt.meta.storage.gem",
       "meta": 530,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 1520,
       "color": "#c6c6c6"
     },
     {
@@ -1808,6 +1886,18 @@ var colorpalette={
       "name": "Block of Empty",
       "uid": "gregtech:gt.meta.storage.gem",
       "meta": 8242,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8292,
+      "color": "#959595"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8293,
       "color": "#c6c6c6"
     },
     {
@@ -2036,7 +2126,7 @@ var colorpalette={
       "name": "Block of Empty",
       "uid": "gregtech:gt.meta.storage.gem",
       "meta": 8338,
-      "color": "#c6c6c6"
+      "color": "#959595"
     },
     {
       "name": "Block of Empty",
@@ -2137,6 +2227,48 @@ var colorpalette={
     {
       "name": "Block of Empty",
       "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8415,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8416,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8417,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8419,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8420,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8421,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 8423,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
       "meta": 9101,
       "color": "#c6c6c6"
     },
@@ -2181,6 +2313,24 @@ var colorpalette={
       "uid": "gregtech:gt.meta.storage.gem",
       "meta": 9180,
       "color": "#c1c1c1"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 9215,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 9219,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Block of Empty",
+      "uid": "gregtech:gt.meta.storage.gem",
+      "meta": 9220,
+      "color": "#c6c6c6"
     },
     {
       "name": "Block of Empty",
@@ -2623,6 +2773,12 @@ var colorpalette={
     {
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 1520,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
       "meta": 1740,
       "color": "#d1d1d1"
     },
@@ -2821,6 +2977,24 @@ var colorpalette={
     {
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8032,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8033,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8034,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8102,
       "color": "#d1d1d1"
     },
@@ -2995,6 +3169,12 @@ var colorpalette={
     {
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8227,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8228,
       "color": "#d1d1d1"
     },
@@ -3080,12 +3260,6 @@ var colorpalette={
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8243,
-      "color": "#d1d1d1"
-    },
-    {
-      "name": "Block of Empty Dust",
-      "uid": "gregtech:gt.meta.storage.dust",
-      "meta": 8244,
       "color": "#d1d1d1"
     },
     {
@@ -3296,6 +3470,18 @@ var colorpalette={
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8281,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8292,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8293,
       "color": "#d1d1d1"
     },
     {
@@ -3530,13 +3716,13 @@ var colorpalette={
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8338,
-      "color": "#d1d1d1"
+      "color": "#cfcfcf"
     },
     {
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8341,
-      "color": "#d1d1d1"
+      "color": "#cfcfcf"
     },
     {
       "name": "Block of Empty Dust",
@@ -3651,6 +3837,54 @@ var colorpalette={
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8390,
       "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8415,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8416,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8417,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8418,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8419,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8420,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8421,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8423,
+      "color": "#d1d1d1"
     },
     {
       "name": "Block of Empty Dust",
@@ -3920,6 +4154,12 @@ var colorpalette={
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 8653,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 8654,
       "color": "#d1d1d1"
     },
     {
@@ -4981,6 +5221,24 @@ var colorpalette={
     {
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9219,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9220,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9221,
+      "color": "#cfcfcf"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
       "meta": 9700,
       "color": "#d1d1d1"
     },
@@ -5066,6 +5324,30 @@ var colorpalette={
       "name": "Block of Empty Dust",
       "uid": "gregtech:gt.meta.storage.dust",
       "meta": 9714,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9715,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9716,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9717,
+      "color": "#d1d1d1"
+    },
+    {
+      "name": "Block of Empty Dust",
+      "uid": "gregtech:gt.meta.storage.dust",
+      "meta": 9718,
       "color": "#d1d1d1"
     },
     {
@@ -5245,6 +5527,18 @@ var colorpalette={
     {
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 30,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 31,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 40,
       "color": "#cccccc"
     },
@@ -5252,6 +5546,12 @@ var colorpalette={
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 50,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 110,
       "color": "#cccccc"
     },
     {
@@ -5270,6 +5570,18 @@ var colorpalette={
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 140,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 190,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 200,
       "color": "#cccccc"
     },
     {
@@ -5366,6 +5678,12 @@ var colorpalette={
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 390,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 400,
       "color": "#cccccc"
     },
     {
@@ -5683,6 +6001,18 @@ var colorpalette={
     {
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 8033,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 8034,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 8217,
       "color": "#cccccc"
     },
@@ -5942,6 +6272,12 @@ var colorpalette={
       "name": "Block of Empty Ingot",
       "uid": "gregtech:gt.meta.storage.ingot",
       "meta": 8653,
+      "color": "#cccccc"
+    },
+    {
+      "name": "Block of Empty Ingot",
+      "uid": "gregtech:gt.meta.storage.ingot",
+      "meta": 8654,
       "color": "#cccccc"
     },
     {
@@ -6349,6 +6685,18 @@ var colorpalette={
     {
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 30,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 31,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
       "meta": 40,
       "color": "#dbdbdb"
     },
@@ -6356,6 +6704,12 @@ var colorpalette={
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
       "meta": 50,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 110,
       "color": "#dbdbdb"
     },
     {
@@ -6374,6 +6728,18 @@ var colorpalette={
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
       "meta": 140,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 190,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 200,
       "color": "#dbdbdb"
     },
     {
@@ -6470,6 +6836,12 @@ var colorpalette={
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
       "meta": 390,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 400,
       "color": "#dbdbdb"
     },
     {
@@ -6769,6 +7141,12 @@ var colorpalette={
     {
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 8227,
+      "color": "#bbbbbb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
       "meta": 8235,
       "color": "#dbdbdb"
     },
@@ -6837,6 +7215,12 @@ var colorpalette={
       "uid": "gregtech:gt.meta.storage.plate",
       "meta": 8341,
       "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 8418,
+      "color": "#bbbbbb"
     },
     {
       "name": "Block of Empty Plate",
@@ -7142,6 +7526,12 @@ var colorpalette={
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
       "meta": 8653,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 8654,
       "color": "#dbdbdb"
     },
     {
@@ -7573,7 +7963,31 @@ var colorpalette={
     {
       "name": "Block of Empty Plate",
       "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 9215,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
       "meta": 9218,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 9715,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 9716,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Empty Plate",
+      "uid": "gregtech:gt.meta.storage.plate",
+      "meta": 9717,
       "color": "#dbdbdb"
     },
     {
@@ -7657,6 +8071,18 @@ var colorpalette={
     {
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 30,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 31,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
       "meta": 40,
       "color": "#d6d6d6"
     },
@@ -7664,6 +8090,12 @@ var colorpalette={
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
       "meta": 50,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 110,
       "color": "#d6d6d6"
     },
     {
@@ -7682,6 +8114,18 @@ var colorpalette={
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
       "meta": 140,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 190,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 200,
       "color": "#d6d6d6"
     },
     {
@@ -7778,6 +8222,12 @@ var colorpalette={
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
       "meta": 390,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 400,
       "color": "#d6d6d6"
     },
     {
@@ -8095,6 +8545,18 @@ var colorpalette={
     {
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 8033,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 8034,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
       "meta": 8217,
       "color": "#d6d6d6"
     },
@@ -8354,6 +8816,12 @@ var colorpalette={
       "name": "Block of solid Empty",
       "uid": "gregtech:gt.meta.storage.solid",
       "meta": 8653,
+      "color": "#d6d6d6"
+    },
+    {
+      "name": "Block of solid Empty",
+      "uid": "gregtech:gt.meta.storage.solid",
+      "meta": 8654,
       "color": "#d6d6d6"
     },
     {
@@ -9722,6 +10190,18 @@ var colorpalette={
       "color": "#38699a"
     },
     {
+      "name": "Chiseled Dark Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 6,
+      "color": "#385446"
+    },
+    {
+      "name": "Chiseled Dark Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 6,
+      "color": "#385446"
+    },
+    {
       "name": "Chiseled Diorite",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 6,
@@ -9780,6 +10260,18 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 6,
       "color": "#b39539"
+    },
+    {
+      "name": "Chiseled Light Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 6,
+      "color": "#619d8c"
+    },
+    {
+      "name": "Chiseled Light Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 6,
+      "color": "#619d8c"
     },
     {
       "name": "Chiseled Limestone",
@@ -10088,6 +10580,18 @@ var colorpalette={
       "color": "#336596"
     },
     {
+      "name": "Cracked Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 4,
+      "color": "#375245"
+    },
+    {
+      "name": "Cracked Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 4,
+      "color": "#375245"
+    },
+    {
       "name": "Cracked Diorite Bricks",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 4,
@@ -10146,6 +10650,18 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 4,
       "color": "#b09132"
+    },
+    {
+      "name": "Cracked Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 4,
+      "color": "#5f9a8a"
+    },
+    {
+      "name": "Cracked Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 4,
+      "color": "#5f9a8a"
     },
     {
       "name": "Cracked Limestone Bricks",
@@ -10234,6 +10750,12 @@ var colorpalette={
     {
       "name": "Crate of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 1520,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
       "meta": 8001,
       "color": "#c7c7c7"
     },
@@ -10265,6 +10787,18 @@ var colorpalette={
       "name": "Crate of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.crate.plateGem",
       "meta": 8226,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8292,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8293,
       "color": "#c7c7c7"
     },
     {
@@ -10589,6 +11123,48 @@ var colorpalette={
       "name": "Crate of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.crate.plateGem",
       "meta": 8390,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8415,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8416,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8417,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8419,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8420,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8421,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 8423,
       "color": "#c7c7c7"
     },
     {
@@ -10648,6 +11224,24 @@ var colorpalette={
     {
       "name": "Crate of Crystalline Empty Plate",
       "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 9215,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 9219,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
+      "meta": 9220,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Crystalline Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plateGem",
       "meta": 9802,
       "color": "#c7c7c7"
     },
@@ -10660,12 +11254,6 @@ var colorpalette={
     {
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
-      "meta": 110,
-      "color": "#b2b2b2"
-    },
-    {
-      "name": "Crate of Empty",
-      "uid": "gregtech:gt.meta.crate.gem",
       "meta": 150,
       "color": "#b2b2b2"
     },
@@ -10673,18 +11261,6 @@ var colorpalette={
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
       "meta": 160,
-      "color": "#b2b2b2"
-    },
-    {
-      "name": "Crate of Empty",
-      "uid": "gregtech:gt.meta.crate.gem",
-      "meta": 190,
-      "color": "#b2b2b2"
-    },
-    {
-      "name": "Crate of Empty",
-      "uid": "gregtech:gt.meta.crate.gem",
-      "meta": 200,
       "color": "#b2b2b2"
     },
     {
@@ -10703,6 +11279,12 @@ var colorpalette={
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
       "meta": 530,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 1520,
       "color": "#b2b2b2"
     },
     {
@@ -10757,6 +11339,18 @@ var colorpalette={
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
       "meta": 8242,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8292,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8293,
       "color": "#b2b2b2"
     },
     {
@@ -11086,6 +11680,48 @@ var colorpalette={
     {
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8415,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8416,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8417,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8419,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8420,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8421,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 8423,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
       "meta": 9101,
       "color": "#b2b2b2"
     },
@@ -11129,6 +11765,24 @@ var colorpalette={
       "name": "Crate of Empty",
       "uid": "gregtech:gt.meta.crate.gem",
       "meta": 9180,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 9215,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 9219,
+      "color": "#b2b2b2"
+    },
+    {
+      "name": "Crate of Empty",
+      "uid": "gregtech:gt.meta.crate.gem",
+      "meta": 9220,
       "color": "#b2b2b2"
     },
     {
@@ -11572,6 +12226,12 @@ var colorpalette={
     {
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 1520,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
       "meta": 1740,
       "color": "#bebebe"
     },
@@ -11770,6 +12430,24 @@ var colorpalette={
     {
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8032,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8033,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8034,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8102,
       "color": "#bebebe"
     },
@@ -11944,6 +12622,12 @@ var colorpalette={
     {
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8227,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8228,
       "color": "#bebebe"
     },
@@ -12029,12 +12713,6 @@ var colorpalette={
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8243,
-      "color": "#bebebe"
-    },
-    {
-      "name": "Crate of Empty Dust",
-      "uid": "gregtech:gt.meta.crate.dust",
-      "meta": 8244,
       "color": "#bebebe"
     },
     {
@@ -12245,6 +12923,18 @@ var colorpalette={
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8281,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8292,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8293,
       "color": "#bebebe"
     },
     {
@@ -12604,6 +13294,54 @@ var colorpalette={
     {
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8415,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8416,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8417,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8418,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8419,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8420,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8421,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8423,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8500,
       "color": "#bebebe"
     },
@@ -12869,6 +13607,12 @@ var colorpalette={
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
       "meta": 8653,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 8654,
       "color": "#bebebe"
     },
     {
@@ -13930,6 +14674,24 @@ var colorpalette={
     {
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9219,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9220,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9221,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
       "meta": 9700,
       "color": "#bebebe"
     },
@@ -14015,6 +14777,30 @@ var colorpalette={
       "name": "Crate of Empty Dust",
       "uid": "gregtech:gt.meta.crate.dust",
       "meta": 9714,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9715,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9716,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9717,
+      "color": "#bebebe"
+    },
+    {
+      "name": "Crate of Empty Dust",
+      "uid": "gregtech:gt.meta.crate.dust",
+      "meta": 9718,
       "color": "#bebebe"
     },
     {
@@ -14194,6 +14980,18 @@ var colorpalette={
     {
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 30,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 31,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 40,
       "color": "#a4a4a4"
     },
@@ -14201,6 +14999,12 @@ var colorpalette={
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 50,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 110,
       "color": "#a4a4a4"
     },
     {
@@ -14219,6 +15023,18 @@ var colorpalette={
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 140,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 190,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 200,
       "color": "#a4a4a4"
     },
     {
@@ -14315,6 +15131,12 @@ var colorpalette={
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 390,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 400,
       "color": "#a4a4a4"
     },
     {
@@ -14632,6 +15454,18 @@ var colorpalette={
     {
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 8033,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 8034,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 8217,
       "color": "#a4a4a4"
     },
@@ -14891,6 +15725,12 @@ var colorpalette={
       "name": "Crate of Empty Ingot",
       "uid": "gregtech:gt.meta.crate.ingot",
       "meta": 8653,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "Crate of Empty Ingot",
+      "uid": "gregtech:gt.meta.crate.ingot",
+      "meta": 8654,
       "color": "#a4a4a4"
     },
     {
@@ -15298,6 +16138,18 @@ var colorpalette={
     {
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 30,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 31,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
       "meta": 40,
       "color": "#c7c7c7"
     },
@@ -15305,6 +16157,12 @@ var colorpalette={
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
       "meta": 50,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 110,
       "color": "#c7c7c7"
     },
     {
@@ -15323,6 +16181,18 @@ var colorpalette={
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
       "meta": 140,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 190,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 200,
       "color": "#c7c7c7"
     },
     {
@@ -15419,6 +16289,12 @@ var colorpalette={
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
       "meta": 390,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 400,
       "color": "#c7c7c7"
     },
     {
@@ -15718,6 +16594,12 @@ var colorpalette={
     {
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 8227,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
       "meta": 8235,
       "color": "#c7c7c7"
     },
@@ -15785,6 +16667,12 @@ var colorpalette={
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
       "meta": 8341,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 8418,
       "color": "#c7c7c7"
     },
     {
@@ -16091,6 +16979,12 @@ var colorpalette={
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
       "meta": 8653,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 8654,
       "color": "#c7c7c7"
     },
     {
@@ -16522,7 +17416,31 @@ var colorpalette={
     {
       "name": "Crate of Empty Plate",
       "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 9215,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
       "meta": 9218,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 9715,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 9716,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Crate of Empty Plate",
+      "uid": "gregtech:gt.meta.crate.plate",
+      "meta": 9717,
       "color": "#c7c7c7"
     },
     {
@@ -16900,6 +17818,90 @@ var colorpalette={
       "color": "#3d2712"
     },
     {
+      "name": "Dark Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 0,
+      "color": "#3c5b4c"
+    },
+    {
+      "name": "Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 3,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 3,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Cobblestone",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 1,
+      "color": "#234836"
+    },
+    {
+      "name": "Dark Prismarine Cobblestone Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 1,
+      "color": "#234836"
+    },
+    {
+      "name": "Dark Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 0,
+      "color": "#3c5b4c"
+    },
+    {
+      "name": "Dark Prismarine Square Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 15,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Square Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 15,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Tiles",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 10,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Tiles Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 10,
+      "color": "#395648"
+    },
+    {
+      "name": "Dark Prismarine Windmill Tiles A",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 13,
+      "color": "#395547"
+    },
+    {
+      "name": "Dark Prismarine Windmill Tiles A Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 13,
+      "color": "#395547"
+    },
+    {
+      "name": "Dark Prismarine Windmill Tiles B",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 14,
+      "color": "#395547"
+    },
+    {
+      "name": "Dark Prismarine Windmill Tiles B Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 14,
+      "color": "#395547"
+    },
+    {
       "name": "Dark Sapling",
       "uid": "BiomesOPlenty:saplings",
       "meta": 4,
@@ -16934,6 +17936,18 @@ var colorpalette={
       "uid": "BiomesOPlenty:darkStairs",
       "meta": 0,
       "color": "#342d36"
+    },
+    {
+      "name": "Darkwood Beam",
+      "uid": "gregtech:gt.block.beam.3",
+      "meta": 3,
+      "color": "#805733"
+    },
+    {
+      "name": "Darkwood Beam (Fireproof)",
+      "uid": "gregtech:gt.block.beam.3.fireproof",
+      "meta": 3,
+      "color": "#805733"
     },
     {
       "name": "Davy Lamp",
@@ -17106,6 +18120,12 @@ var colorpalette={
     {
       "name": "Dense Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.dense",
+      "meta": 330,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Dense Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.dense",
       "meta": 400,
       "color": "#cbcccb"
     },
@@ -17113,6 +18133,12 @@ var colorpalette={
       "name": "Dense Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.dense",
       "meta": 420,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Dense Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.dense",
+      "meta": 430,
       "color": "#cbcccb"
     },
     {
@@ -17455,6 +18481,12 @@ var colorpalette={
       "name": "Dense Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.dense",
       "meta": 8653,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Dense Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.dense",
+      "meta": 8654,
       "color": "#cbcccb"
     },
     {
@@ -18302,6 +19334,12 @@ var colorpalette={
     {
       "name": "Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine",
+      "meta": 330,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine",
       "meta": 400,
       "color": "#cbcccb"
     },
@@ -18309,6 +19347,12 @@ var colorpalette={
       "name": "Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine",
       "meta": 420,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine",
+      "meta": 430,
       "color": "#cbcccb"
     },
     {
@@ -18651,6 +19695,12 @@ var colorpalette={
       "name": "Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine",
       "meta": 8653,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine",
+      "meta": 8654,
       "color": "#cbcccb"
     },
     {
@@ -19403,6 +20453,12 @@ var colorpalette={
       "color": "#e4e4e4"
     },
     {
+      "name": "Gelisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 7,
+      "color": "#957c47"
+    },
+    {
       "name": "Giant Flower Stem",
       "uid": "BiomesOPlenty:logs3",
       "meta": 3,
@@ -19708,6 +20764,12 @@ var colorpalette={
       "color": "#939393"
     },
     {
+      "name": "Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 0,
+      "color": "#957c47"
+    },
+    {
       "name": "Gravel",
       "uid": "minecraft:gravel",
       "meta": 0,
@@ -19850,6 +20912,18 @@ var colorpalette={
       "uid": "minecraft:wool",
       "meta": 7,
       "color": "#404040"
+    },
+    {
+      "name": "Greatwood Beam",
+      "uid": "gregtech:gt.block.beam.3",
+      "meta": 0,
+      "color": "#9c7b4a"
+    },
+    {
+      "name": "Greatwood Beam (Fireproof)",
+      "uid": "gregtech:gt.block.beam.3.fireproof",
+      "meta": 0,
+      "color": "#9c7b4a"
     },
     {
       "name": "Green Asphalt",
@@ -20369,6 +21443,12 @@ var colorpalette={
       "color": "#9f7c56"
     },
     {
+      "name": "Histosol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 8,
+      "color": "#957c47"
+    },
+    {
       "name": "Hive Block",
       "uid": "BiomesOPlenty:hive",
       "meta": 1,
@@ -20424,6 +21504,12 @@ var colorpalette={
       "uid": "BiomesOPlenty:flowers2",
       "meta": 7,
       "color": "#96acb7"
+    },
+    {
+      "name": "Inceptisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 9,
+      "color": "#957c47"
     },
     {
       "name": "Iron Bars",
@@ -20977,12 +22063,6 @@ var colorpalette={
       "color": "#b0b0b0"
     },
     {
-      "name": "Leaves",
-      "uid": "gregtech:gt.block.leaves",
-      "meta": 6,
-      "color": "#269114"
-    },
-    {
       "name": "Lever",
       "uid": "minecraft:lever",
       "meta": 0,
@@ -21246,6 +22326,90 @@ var colorpalette={
       "meta": 0,
       "color": "#000000",
       "alpha": 0.3
+    },
+    {
+      "name": "Light Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 0,
+      "color": "#6aaa96"
+    },
+    {
+      "name": "Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 3,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 3,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Cobblestone",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 1,
+      "color": "#4f937f"
+    },
+    {
+      "name": "Light Prismarine Cobblestone Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 1,
+      "color": "#4f937f"
+    },
+    {
+      "name": "Light Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 0,
+      "color": "#6aaa96"
+    },
+    {
+      "name": "Light Prismarine Square Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 15,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Square Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 15,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Tiles",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 10,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Tiles Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 10,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Light Prismarine Windmill Tiles A",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 13,
+      "color": "#649f8f"
+    },
+    {
+      "name": "Light Prismarine Windmill Tiles A Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 13,
+      "color": "#649f8f"
+    },
+    {
+      "name": "Light Prismarine Windmill Tiles B",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 14,
+      "color": "#649f8f"
+    },
+    {
+      "name": "Light Prismarine Windmill Tiles B Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 14,
+      "color": "#649f8f"
     },
     {
       "name": "Lignite Block",
@@ -21668,6 +22832,12 @@ var colorpalette={
       "color": "#939393"
     },
     {
+      "name": "Loamy Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 2,
+      "color": "#957c47"
+    },
+    {
       "name": "Log",
       "uid": "gregtech:gt.block.log.b",
       "meta": 2,
@@ -22073,7 +23243,7 @@ var colorpalette={
       "name": "Maple Leaves",
       "uid": "gregtech:gt.block.leaves",
       "meta": 1,
-      "color": "#904800"
+      "color": "#2f950d"
     },
     {
       "name": "Maple Log",
@@ -22460,6 +23630,12 @@ var colorpalette={
       "color": "#714313"
     },
     {
+      "name": "Mollisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 10,
+      "color": "#957c47"
+    },
+    {
       "name": "Monster Spawner",
       "uid": "minecraft:mob_spawner",
       "meta": 0,
@@ -22581,6 +23757,30 @@ var colorpalette={
       "color": "#677967"
     },
     {
+      "name": "Mossy Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 5,
+      "color": "#487d28"
+    },
+    {
+      "name": "Mossy Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 5,
+      "color": "#487d28"
+    },
+    {
+      "name": "Mossy Dark Prismarine Cobblestone",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 2,
+      "color": "#4d842e"
+    },
+    {
+      "name": "Mossy Dark Prismarine Cobblestone Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 2,
+      "color": "#4d842e"
+    },
+    {
       "name": "Mossy Diorite Bricks",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 5,
@@ -22699,6 +23899,30 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 2,
       "color": "#9b9137"
+    },
+    {
+      "name": "Mossy Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 5,
+      "color": "#62a650"
+    },
+    {
+      "name": "Mossy Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 5,
+      "color": "#62a650"
+    },
+    {
+      "name": "Mossy Light Prismarine Cobblestone",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 2,
+      "color": "#6cb15b"
+    },
+    {
+      "name": "Mossy Light Prismarine Cobblestone Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 2,
+      "color": "#6cb15b"
     },
     {
       "name": "Mossy Limestone Bricks",
@@ -23303,11 +24527,29 @@ var colorpalette={
       "color": "#b3b3b3"
     },
     {
+      "name": "Oxisol Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 11,
+      "color": "#957c47"
+    },
+    {
       "name": "Packed Ice",
       "uid": "minecraft:packed_ice",
       "meta": 0,
       "color": "#a5c2f5",
       "alpha": 0.8
+    },
+    {
+      "name": "Palm Beam",
+      "uid": "gregtech:gt.block.beam.b",
+      "meta": 2,
+      "color": "#e4afaf"
+    },
+    {
+      "name": "Palm Beam (Fireproof)",
+      "uid": "gregtech:gt.block.beam.b.fireproof",
+      "meta": 2,
+      "color": "#e4afaf"
     },
     {
       "name": "Palm Leaves",
@@ -23316,10 +24558,46 @@ var colorpalette={
       "color": "#7b7b7b"
     },
     {
+      "name": "Palm Leaves",
+      "uid": "gregtech:gt.block.leaves",
+      "meta": 6,
+      "color": "#269114"
+    },
+    {
+      "name": "Palm Planks",
+      "uid": "gregtech:gt.block.planks",
+      "meta": 6,
+      "color": "#e0a3a3"
+    },
+    {
+      "name": "Palm Planks (Fireproof)",
+      "uid": "gregtech:gt.block.planks.fireproof",
+      "meta": 6,
+      "color": "#e0a3a3"
+    },
+    {
       "name": "Palm Sapling",
       "uid": "BiomesOPlenty:colorizedSaplings",
       "meta": 2,
       "color": "#6d673c"
+    },
+    {
+      "name": "Palm Sapling (coming soon)",
+      "uid": "gregtech:gt.block.sapling",
+      "meta": 6,
+      "color": "#2a6b0f"
+    },
+    {
+      "name": "Palm Slab",
+      "uid": "gregtech:gt.block.planks.slab.0",
+      "meta": 6,
+      "color": "#e0a3a3"
+    },
+    {
+      "name": "Palm Slab (Fireproof)",
+      "uid": "gregtech:gt.block.planks.fireproof.slab.0",
+      "meta": 6,
+      "color": "#e0a3a3"
     },
     {
       "name": "Palm Wood",
@@ -23627,18 +24905,6 @@ var colorpalette={
       "uid": "minecraft:piston",
       "meta": 0,
       "color": "#606060"
-    },
-    {
-      "name": "Planks",
-      "uid": "gregtech:gt.block.planks",
-      "meta": 6,
-      "color": "#e0a3a3"
-    },
-    {
-      "name": "Planks (Fireproof)",
-      "uid": "gregtech:gt.block.planks.fireproof",
-      "meta": 6,
-      "color": "#e0a3a3"
     },
     {
       "name": "Poison",
@@ -24737,6 +26003,18 @@ var colorpalette={
       "color": "#35699b"
     },
     {
+      "name": "Redstoned Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 9,
+      "color": "#395648"
+    },
+    {
+      "name": "Redstoned Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 9,
+      "color": "#395648"
+    },
+    {
       "name": "Redstoned Diorite Bricks",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 9,
@@ -24795,6 +26073,18 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 9,
       "color": "#b69634"
+    },
+    {
+      "name": "Redstoned Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 9,
+      "color": "#63a08f"
+    },
+    {
+      "name": "Redstoned Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 9,
+      "color": "#63a08f"
     },
     {
       "name": "Redstoned Limestone Bricks",
@@ -25003,6 +26293,18 @@ var colorpalette={
       "color": "#3a6999"
     },
     {
+      "name": "Reinforced Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 8,
+      "color": "#3d584b"
+    },
+    {
+      "name": "Reinforced Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 8,
+      "color": "#3d584b"
+    },
+    {
       "name": "Reinforced Diorite Bricks",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 8,
@@ -25083,6 +26385,12 @@ var colorpalette={
     {
       "name": "Reinforced Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.quadruple",
+      "meta": 330,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Reinforced Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.quadruple",
       "meta": 400,
       "color": "#cbcccb"
     },
@@ -25090,6 +26398,12 @@ var colorpalette={
       "name": "Reinforced Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.quadruple",
       "meta": 420,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Reinforced Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.quadruple",
+      "meta": 430,
       "color": "#cbcccb"
     },
     {
@@ -25432,6 +26746,12 @@ var colorpalette={
       "name": "Reinforced Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.quadruple",
       "meta": 8653,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Reinforced Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.quadruple",
+      "meta": 8654,
       "color": "#cbcccb"
     },
     {
@@ -25741,6 +27061,18 @@ var colorpalette={
       "color": "#b29439"
     },
     {
+      "name": "Reinforced Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 8,
+      "color": "#659d8d"
+    },
+    {
+      "name": "Reinforced Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 8,
+      "color": "#659d8d"
+    },
+    {
       "name": "Reinforced Limestone Bricks",
       "uid": "gregtech:gt.stone.limestone",
       "meta": 8,
@@ -25977,6 +27309,12 @@ var colorpalette={
     {
       "name": "Robust Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.double",
+      "meta": 330,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Robust Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.double",
       "meta": 400,
       "color": "#cbcccb"
     },
@@ -25984,6 +27322,12 @@ var colorpalette={
       "name": "Robust Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.double",
       "meta": 420,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Robust Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.double",
+      "meta": 430,
       "color": "#cbcccb"
     },
     {
@@ -26326,6 +27670,12 @@ var colorpalette={
       "name": "Robust Empty Machine Casing",
       "uid": "gregtech:gt.meta.machine.double",
       "meta": 8653,
+      "color": "#cbcccb"
+    },
+    {
+      "name": "Robust Empty Machine Casing",
+      "uid": "gregtech:gt.meta.machine.double",
+      "meta": 8654,
       "color": "#cbcccb"
     },
     {
@@ -26889,6 +28239,12 @@ var colorpalette={
       "color": "#939393"
     },
     {
+      "name": "Sandy Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 3,
+      "color": "#957c47"
+    },
+    {
       "name": "Sea Water",
       "uid": "gregtech:gt.block.ocean",
       "meta": 0,
@@ -27094,6 +28450,12 @@ var colorpalette={
       "color": "#939393"
     },
     {
+      "name": "Silty Grass Path",
+      "uid": "gregtech:gt.block.paths",
+      "meta": 4,
+      "color": "#957c47"
+    },
+    {
       "name": "Silver Block Spike",
       "uid": "gregtech:gt.block.spikes.fancy",
       "meta": 14,
@@ -27104,6 +28466,18 @@ var colorpalette={
       "uid": "gregtech:gt.block.spikes.fancy",
       "meta": 8,
       "color": "#6d6c6a"
+    },
+    {
+      "name": "Silverwood Beam",
+      "uid": "gregtech:gt.block.beam.3",
+      "meta": 1,
+      "color": "#9d8e77"
+    },
+    {
+      "name": "Silverwood Beam (Fireproof)",
+      "uid": "gregtech:gt.block.beam.3.fireproof",
+      "meta": 1,
+      "color": "#9d8e77"
     },
     {
       "name": "Skeleton Skull",
@@ -27118,16 +28492,16 @@ var colorpalette={
       "color": "#effbfb"
     },
     {
-      "name": "Slab",
-      "uid": "gregtech:gt.block.planks.slab.0",
-      "meta": 6,
-      "color": "#e0a3a3"
+      "name": "Skyroot Beam",
+      "uid": "gregtech:gt.block.beam.3",
+      "meta": 2,
+      "color": "#545d51"
     },
     {
-      "name": "Slab (Fireproof)",
-      "uid": "gregtech:gt.block.planks.fireproof.slab.0",
-      "meta": 6,
-      "color": "#e0a3a3"
+      "name": "Skyroot Beam (Fireproof)",
+      "uid": "gregtech:gt.block.beam.3.fireproof",
+      "meta": 2,
+      "color": "#545d51"
     },
     {
       "name": "Small Andesite Bricks",
@@ -27230,6 +28604,30 @@ var colorpalette={
       "uid": "BiomesOPlenty:bones",
       "meta": 0,
       "color": "#edebc9"
+    },
+    {
+      "name": "Small Dark Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 12,
+      "color": "#395648"
+    },
+    {
+      "name": "Small Dark Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 12,
+      "color": "#395648"
+    },
+    {
+      "name": "Small Dark Prismarine Tiles",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 11,
+      "color": "#3b574b"
+    },
+    {
+      "name": "Small Dark Prismarine Tiles Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 11,
+      "color": "#3b574b"
     },
     {
       "name": "Small Diorite Bricks",
@@ -27350,6 +28748,30 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 11,
       "color": "#b49436"
+    },
+    {
+      "name": "Small Light Prismarine Bricks",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 12,
+      "color": "#66a18f"
+    },
+    {
+      "name": "Small Light Prismarine Bricks Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 12,
+      "color": "#66a18f"
+    },
+    {
+      "name": "Small Light Prismarine Tiles",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 11,
+      "color": "#659f8e"
+    },
+    {
+      "name": "Small Light Prismarine Tiles Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 11,
+      "color": "#659f8e"
     },
     {
       "name": "Small Lily Pad",
@@ -27514,6 +28936,18 @@ var colorpalette={
       "color": "#35699b"
     },
     {
+      "name": "Smooth Dark Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.dark",
+      "meta": 7,
+      "color": "#395648"
+    },
+    {
+      "name": "Smooth Dark Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.dark.slab.0",
+      "meta": 7,
+      "color": "#395648"
+    },
+    {
       "name": "Smooth Diorite",
       "uid": "gregtech:gt.stone.diorite",
       "meta": 7,
@@ -27572,6 +29006,18 @@ var colorpalette={
       "uid": "gregtech:gt.stone.komatiite.slab.0",
       "meta": 7,
       "color": "#b89633"
+    },
+    {
+      "name": "Smooth Light Prismarine",
+      "uid": "gregtech:gt.stone.prismarine.light",
+      "meta": 7,
+      "color": "#62a18f"
+    },
+    {
+      "name": "Smooth Light Prismarine Slab",
+      "uid": "gregtech:gt.stone.prismarine.light.slab.0",
+      "meta": 7,
+      "color": "#62a18f"
     },
     {
       "name": "Smooth Limestone",
@@ -27856,6 +29302,12 @@ var colorpalette={
       "color": "#7f7f7f"
     },
     {
+      "name": "Steel Bars",
+      "uid": "gregtech:gt.block.bars.steel",
+      "meta": 0,
+      "color": "#6d6c6a"
+    },
+    {
       "name": "Steel Block Spike",
       "uid": "gregtech:gt.block.spikes.sharp",
       "meta": 6,
@@ -28090,6 +29542,12 @@ var colorpalette={
       "color": "#25320d"
     },
     {
+      "name": "Titanium Bars",
+      "uid": "gregtech:gt.block.bars.titanium",
+      "meta": 0,
+      "color": "#6d6c6a"
+    },
+    {
       "name": "Titanium Block Spike",
       "uid": "gregtech:gt.block.spikes.sharp",
       "meta": 14,
@@ -28186,8 +29644,20 @@ var colorpalette={
       "color": "#401c00"
     },
     {
+      "name": "Treated Planks (Fireproof)",
+      "uid": "gregtech:gt.block.planks.fireproof",
+      "meta": 10,
+      "color": "#401c00"
+    },
+    {
       "name": "Treated Slab",
       "uid": "gregtech:gt.block.planks.slab.0",
+      "meta": 10,
+      "color": "#401c00"
+    },
+    {
+      "name": "Treated Slab (Fireproof)",
+      "uid": "gregtech:gt.block.planks.fireproof.slab.0",
       "meta": 10,
       "color": "#401c00"
     },
@@ -28253,6 +29723,12 @@ var colorpalette={
       "color": "#493c28"
     },
     {
+      "name": "Tungstensteel Bars",
+      "uid": "gregtech:gt.block.bars.tungstensteel",
+      "meta": 0,
+      "color": "#6d6c6a"
+    },
+    {
       "name": "Tungstensteel Block Spike",
       "uid": "gregtech:gt.block.spikes.super",
       "meta": 6,
@@ -28283,6 +29759,12 @@ var colorpalette={
       "color": "#6d6c6a"
     },
     {
+      "name": "Turf",
+      "uid": "gregtech:gt.block.diggable",
+      "meta": 2,
+      "color": "#280a00"
+    },
+    {
       "name": "Turnip",
       "uid": "BiomesOPlenty:turnip",
       "meta": 0,
@@ -28301,10 +29783,1774 @@ var colorpalette={
       "color": "#805642"
     },
     {
-      "name": "Unknown Sapling (coming soon)",
-      "uid": "gregtech:gt.block.sapling",
-      "meta": 6,
-      "color": "#2a6b0f"
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 30,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 31,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 40,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 50,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 60,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 61,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 62,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 90,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 110,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 120,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 130,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 140,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 150,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 160,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 190,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 200,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 220,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 230,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 240,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 250,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 260,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 270,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 278,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 280,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 290,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 300,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 310,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 320,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 330,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 340,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 370,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 380,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 390,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 400,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 410,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 420,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 430,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 440,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 450,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 460,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 470,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 480,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 490,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 500,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 510,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 530,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 580,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 600,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 720,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 730,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 740,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 750,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 760,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 770,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 780,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 790,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 800,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 820,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 830,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 850,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 880,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 900,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 920,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 921,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 940,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 943,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 945,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 950,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 951,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1250,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1260,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1450,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1520,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1740,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1741,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 1742,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 2220,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8000,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8003,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8005,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8008,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8009,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8010,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8014,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8016,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8018,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8019,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8026,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8028,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8029,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8102,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8103,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8203,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8204,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8205,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8206,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8207,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8208,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8209,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8226,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8234,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8242,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8243,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8292,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8293,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8298,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8299,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8300,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8301,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8302,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8303,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8304,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8305,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8306,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8307,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8308,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8309,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8310,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8311,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8312,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8313,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8314,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8315,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8317,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8320,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8321,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8322,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8323,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8324,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8325,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8326,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8328,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8329,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8330,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8331,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8332,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8333,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8334,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8336,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8337,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8338,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8341,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8346,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8347,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8348,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8349,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8362,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8363,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8364,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8365,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8383,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8384,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8385,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8386,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8387,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8388,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8389,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8390,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8415,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8416,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8417,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8419,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8420,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8421,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8423,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8600,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8630,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8642,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8649,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8676,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8677,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8678,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8736,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8750,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8753,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8784,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8785,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 8786,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9000,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9001,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9003,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9004,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9005,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9006,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9100,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9101,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9102,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9103,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9104,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9105,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9106,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9107,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9108,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9110,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9111,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9112,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9113,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9114,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9115,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9116,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9117,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9118,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9119,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9120,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9121,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9122,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9123,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9124,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9125,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9126,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9127,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9128,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9129,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9130,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9131,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9132,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9133,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9134,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9135,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9136,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9137,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9138,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9139,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9140,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9141,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9142,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9143,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9144,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9145,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9146,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9147,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9148,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9149,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9150,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9151,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9152,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9153,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9154,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9155,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9156,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9157,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9158,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9159,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9160,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9161,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9162,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9163,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9164,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9165,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9166,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9167,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9168,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9169,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9174,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9175,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9180,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9183,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9192,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9193,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9194,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9195,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9196,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9197,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9198,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9199,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9200,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9201,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9202,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9203,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9204,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9205,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9206,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9207,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9208,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9209,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9210,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9211,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9212,
+      "color": "#e1e1e1"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9213,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9214,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9215,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9216,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9217,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9219,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9220,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9221,
+      "color": "#929292"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9716,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9717,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9718,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9780,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9791,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9793,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9851,
+      "color": "#b8b8b8"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9852,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Unknown Ore",
+      "uid": "gregtech:gt.meta.ore.normal.default",
+      "meta": 9853,
+      "color": "#929292"
     },
     {
       "name": "Vermillion Autumn Leaves",
@@ -28564,7 +31810,7 @@ var colorpalette={
     },
     {
       "name": "Wicker Basket",
-      "uid": "tfclite:BlockWickerBasket",
+      "uid": "MoreCraftingRealism:BlockWickerBasket",
       "meta": 0,
       "color": "#ac8760"
     },
@@ -28733,6 +31979,12 @@ var colorpalette={
       "color": "#5a1a1e"
     },
     {
+      "name": "Wood Bars",
+      "uid": "gregtech:gt.block.bars.wood",
+      "meta": 0,
+      "color": "#6d6c6a"
+    },
+    {
       "name": "Wood Beam",
       "uid": "gregtech:gt.block.beam.2",
       "meta": 3,
@@ -28757,12 +32009,6 @@ var colorpalette={
       "color": "#f8cc8a"
     },
     {
-      "name": "Wood Planks (Fireproof)",
-      "uid": "gregtech:gt.block.planks.fireproof",
-      "meta": 10,
-      "color": "#401c00"
-    },
-    {
       "name": "Wood Slab",
       "uid": "gregtech:gt.block.planks.slab.0",
       "meta": 9,
@@ -28773,12 +32019,6 @@ var colorpalette={
       "uid": "gregtech:gt.block.planks.fireproof.slab.0",
       "meta": 9,
       "color": "#f8cc8a"
-    },
-    {
-      "name": "Wood Slab (Fireproof)",
-      "uid": "gregtech:gt.block.planks.fireproof.slab.0",
-      "meta": 10,
-      "color": "#401c00"
     },
     {
       "name": "Wooden Door",
