@@ -11,8 +11,8 @@
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 1.1,
-  "Humidity": 0.0,
+  "Temperature": 0.8,
+  "Humidity": 0.1,
   "Water Tint": 16777215,
   "Enable Rain": false,
   "Enable Snow": false,
@@ -58,6 +58,12 @@
       "Weight": 1,
       "Min Group Count": 2,
       "Max Group Count": 6
+    },
+    {
+      "Entity Class": "com.draco18s.wildlife.entity.EntityGoat",
+      "Weight": 4,
+      "Min Group Count": 4,
+      "Max Group Count": 4
     },
     {
       "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityBear",

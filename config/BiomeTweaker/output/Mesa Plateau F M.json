@@ -11,8 +11,8 @@
   "Grass Color": "Not set. Check in-game.",
   "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
-  "Temperature": 2.0,
-  "Humidity": 0.0,
+  "Temperature": 1.0,
+  "Humidity": -0.3,
   "Water Tint": 16777215,
   "Enable Rain": false,
   "Enable Snow": false,
@@ -165,6 +165,24 @@
     {
       "Entity Class": "net.minecraft.entity.monster.EntityWitch",
       "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.draco18s.wildlife.entity.EntityLizard",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "gravestone.entity.monster.EntityZombieDog",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "gravestone.entity.monster.EntityZombieDog",
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
     },
